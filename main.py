@@ -14,8 +14,8 @@ engine = pyttsx3.init()
 engine.setProperty("rate", 130)
 engine.setProperty("voice", "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\MSTTS_V110_trTR_Tolga")
 
-openai.api_key = "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"
-aai.settings.api_key = "a39221861e8e4ee39772674a3359c29e"
+openai.api_key = ""
+aai.settings.api_key = ""
 
 # openai whisper model
 model = whisper.load_model("base")
