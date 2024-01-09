@@ -1,0 +1,1 @@
+A Python project that utilizes the microphone to capture user input, converts it to text, sends the text to the ChatGPT API, and plays back the response. An exploration of voice-controlled interactions.
